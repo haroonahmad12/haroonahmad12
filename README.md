@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haroonahmad12
+- 👋 Hi, I’m Haroon Ahmad
 - 👀 I’m interested in learninggg
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on anything!
