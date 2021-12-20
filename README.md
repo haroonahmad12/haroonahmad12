@@ -51,7 +51,7 @@
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-<a href="https://www.linkedin.com/in/haroon-ahmad-426b3b213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:haroon334@gmail.com">Mail</a><img src="assets/gamil.png"/></a>
+<a href="https://www.linkedin.com/in/haroon-ahmad-426b3b213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:haroon334@gmail.com">Mail</a><img src="assets/gmail.png"/></a>
 
 </p>
 
