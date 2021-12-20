@@ -6,7 +6,6 @@
   
   
 ## Languages I speak and Things I love:
-<hr/>
 
 <table>
 <tbody>
