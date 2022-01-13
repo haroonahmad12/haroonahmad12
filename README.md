@@ -112,8 +112,7 @@
 </tr>
 </tbody>
 </table>
----
-
+<hr>
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
