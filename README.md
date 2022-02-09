@@ -112,6 +112,8 @@
 </tr>
 </tbody>
 </table>
+  
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroonahmad12&show_icons=true&locale=en&layout=compact" alt="haroonahmad12" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonahmad12&show_icons=true&locale=en" alt="haroonahmad12" /></p>
 <hr>
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
