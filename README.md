@@ -45,6 +45,11 @@
 </td>
 
 <td align="center" width="20%">
+<span><b><center>NestJS</center></b></span> 
+<img height=60px src="https://docs.nestjs.com/assets/logo-small.svg"> 
+</td>
+
+<td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"> 
 </td>
@@ -68,6 +73,11 @@
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"> 
 </td>
 
+<td align="center" width="20%">
+<span><b><center>NextJS</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png"> 
+</td>
+
 </tr>
 <tr>
 
@@ -84,6 +94,11 @@
 <td align="center" width="20%">
 <span><b><center>JEST</center></b></span> 
 <img src="assets/jest-logo.png" height=60px>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>React Native</center></b></span> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=60px>
 </td>
 
 </tr>
