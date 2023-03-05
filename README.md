@@ -30,11 +30,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" height=60px>
 </td>
 
-<td align="center" width="20%">
-<span><b><center>jQuery</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"> 
-</td>
-
 </tr>
 
 <tr>
