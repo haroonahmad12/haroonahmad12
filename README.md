@@ -10,12 +10,16 @@
 <table>
 <tbody>
 <tr>
-
 <td align="center" width="20%">
-<span><b><center>Javascript ES6</center></b></span> 
+<span><b><center>Javascript</center></b></span> 
 <img src="https://img.icons8.com/color/2x/javascript.png" height=60px>
 </td>
-
+  
+<td align="center" width="20%">
+<span><b><center>Typescript</center></b></span> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height=60px>
+</td>  
+ 
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
 <img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
@@ -128,11 +132,10 @@
 </tbody>
 </table>
   
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroonahmad12&show_icons=true&locale=en&layout=compact" alt="haroonahmad12" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonahmad12&show_icons=true&locale=en" alt="haroonahmad12" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroonahmad12&show_icons=true&locale=en&layout=compact" alt="haroonahmad12" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=haroonahmad12&show_icons=true&locale=en" alt="haroonahmad12" /></p>
 <hr>
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/haroon-ahmad-426b3b213/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="mailto:haroon334@gmail.com"><img src="assets/gmail.png" width= "40px" height="30px"/></a>
-
 </p>
